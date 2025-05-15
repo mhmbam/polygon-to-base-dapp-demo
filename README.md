@@ -1,3 +1,2 @@
-# Polygon DApp to Base Demo
-
-This is a sample decentralized application (DApp) that demonstrates interaction with the Base network, starting from a Polygon project structure.
+# Polygon to Base DApp Demo
+This is a demo DApp for bridging tokens from Polygon to Base.
