@@ -1,0 +1,1 @@
+console.log('DApp is running on Base network');
